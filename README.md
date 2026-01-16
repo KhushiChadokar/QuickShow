@@ -1,3 +1,28 @@
+# QuickShow 🎬
+
+QuickShow is a movie ticket booking web application built using React.
+
+## Features
+- Movie browsing and show details
+- Seat selection interface
+- Booking history view
+- Favourites management
+- Responsive UI
+
+## Tech Stack
+- React.js
+- Tailwind CSS
+- React Router
+- MongoDB (basic integration)
+
+## Project Purpose
+This project was built to understand real-world frontend development, routing, and basic backend integration.
+
+## Future Improvements
+- Enhanced backend APIs
+- Authentication
+- Payment integration
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
